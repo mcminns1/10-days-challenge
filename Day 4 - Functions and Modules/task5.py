@@ -1,0 +1,1 @@
+#Write a program that uses the random module to generate a random number between 1 and 10.
