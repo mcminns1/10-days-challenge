@@ -4,6 +4,7 @@ x = int(input("Choose a number: "))
 y = 0
 
 for i in range(0, x):
-    y += 1
-    i = i + y
-    print (i)
+    y += i
+    i += 1
+
+    print (y)
